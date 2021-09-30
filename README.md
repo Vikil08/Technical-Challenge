@@ -1,8 +1,13 @@
-# Technical-Challenge-
+# Technical-Challenge
 
-How to run the application/step?
+Pre-requesites: 
+ Python 3.x
+ 
+Editor used: VS Code 
 
-1. hosts.txt, urls.txt, and deduplicateHostUrl.py files has to be in the same folder.
-2. Open cmd/terminal and add the path to the folder.
+How to run the application?
+
+1. Dowmload hosts.txt, urls.txt, and deduplicateHostUrl.py files and keep it a same folder.
+2. Open cmd/terminal and redirect to folder path.
 3. Run 'python3 deduplicateHostUrl.py' if you are using Mac or 'python deduplicateHostUrl.py' if you are using windows.
 
