@@ -5,7 +5,7 @@ Prerequisites:
  
 Editor used: VS Code 
 
-How to run the application?
+Steps to run the application:
 
 1. Download hosts.txt, urls.txt, and deduplicateHostUrl.py files and keep it a same folder.
 2. Open cmd/terminal and redirect to folder path.
